@@ -1,0 +1,2 @@
+# Literature-Reproduction-for-WenLab
+这个库储存了本人使用Google colab和matlab用来复现Flexible motor sequence generation during stereotyped escape responses一文相关工作，复现工作所用到的数据与参考的代码均来自WenLab的库，这个库中的代码为个人所写，仅供个人学习神经科学的常用的实验分析方法。
